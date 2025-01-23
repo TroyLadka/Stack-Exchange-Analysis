@@ -65,7 +65,6 @@ import matplotlib.pyplot as plt
 from scipy.stats import skew, kurtosis, pearsonr
 ```
 
-Data sourced from Stack Exchange Data Dump (Oct 2022 - Feb 2023)
 
 ## Repository Structure
 ```
